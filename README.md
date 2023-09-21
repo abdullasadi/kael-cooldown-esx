@@ -1,7 +1,7 @@
 ### Fivem Police Cooldown Script Made By Kael Script
 
 ## Dependencies
-- [qb-core](https://github.com/qbcore-framework/qb-core)
+- [es_extended](https://github.com/mitlight/es_extended)
 
 ## Preview
 - [Youtube](https://youtu.be/0lG7inazIPU)
